@@ -12,7 +12,14 @@ The app should have 2 screens:
   * with not installed programs annotated  
 * Edit screen, where the user can edit the program list
 
-## Dependencies
+## .CSV file format
+| Program name | Program category | License type | Required | Registry key - name
+|:----:|:-----------:|:----:|:----:|
+Mozzila Firefox | Browser | FOSS | yes | Software\\Mozilla
+
+
+
+## Additional dependencies
 * OpenJFX [JavaFX 16](https://mvnrepository.com/artifact/org.openjfx/javafx/16)
 * Google's [Gson](https://mvnrepository.com/artifact/com.google.code.gson/gson)
 * Google's [Guava](https://mvnrepository.com/artifact/com.google.guava/guava)
