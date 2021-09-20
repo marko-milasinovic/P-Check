@@ -15,7 +15,7 @@ The app should have 2 screens:
 ## .CSV file format
 | Program name | Program category | License type | Required | Registry key - name
 |:----:|:-----------:|:----:|:----:|:----:|
-Mozzila Firefox | Browser | FOSS | yes | Software\\Mozilla
+Mozilla Firefox | Browser | FOSS | yes | Software\\Mozilla
 
 
 
