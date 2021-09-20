@@ -1,4 +1,4 @@
-# Automatic Installed Program Checker
+# Automatic installed programs checker
 Java program that automatically checks if given programs (read from .csv) are installed on windows
 
 ## Built with
