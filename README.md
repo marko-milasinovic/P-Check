@@ -29,7 +29,9 @@ An example of the .csv file format
 | Program name (Required)| Program category (Optional) | License type (Optional) | Required (Optional) | Download URL (Optional) | User Profile (Optional)
 |:----:|:-----------:|:----:|:----:|:----:|:----:|
 Mozilla Firefox | Browser | FOSS | yes | https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US | Regular
-Google Chrome | Browser | Shareware | yes | http://dl.google.com/chrome/install/375.126/chrome_installer.exe | Regular
+Google Chrome | Browser | Freeware | yes | http://dl.google.com/chrome/install/375.126/chrome_installer.exe | Regular
+ffmpeg | Video editor | FOSS | no | https://ffmpeg.org/releases/ffmpeg-snapshot.tar.bz2 | Video
+Visual Studio Code | Programmer | Shareware| no | https://code.visualstudio.com/docs/?dv=win | Programmer
 
 ## Additional dependencies
 * OpenJFX [JavaFX 16](https://mvnrepository.com/artifact/org.openjfx/javafx/16)
