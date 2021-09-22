@@ -34,6 +34,7 @@ ffmpeg | Video editor | FOSS | no | https://ffmpeg.org/releases/ffmpeg-snapshot.
 Visual Studio Code | Programmer | Shareware| no | https://code.visualstudio.com/docs/?dv=win | Programmer
 Arduino IDE | Programmer | FOSS | no | https://downloads.arduino.cc/arduino-nightly-windows.zip | Programmer
 Handbrake | Video editor | FOSS | no | https://handbrake.fr/rotation.php?file=HandBrake-1.4.1-x86_64-Win_GUI.exe | Video editor
+7Zip | File archiver | FOSS | yes | https://www.7-zip.org/a/7z1900-x64.exe | Regular
 
 ## Additional dependencies
 * OpenJFX [JavaFX 16](https://mvnrepository.com/artifact/org.openjfx/javafx/16)
