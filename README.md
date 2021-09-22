@@ -33,6 +33,7 @@ Google Chrome | Browser | Freeware | yes | http://dl.google.com/chrome/install/3
 ffmpeg | Video editor | FOSS | no | https://ffmpeg.org/releases/ffmpeg-snapshot.tar.bz2 | Video editor
 Visual Studio Code | Programmer | Shareware| no | https://code.visualstudio.com/docs/?dv=win | Programmer
 Arduino IDE | Programmer | FOSS | no | https://downloads.arduino.cc/arduino-nightly-windows.zip | Programmer
+Handbrake | Video editor | FOSS | no | https://handbrake.fr/rotation.php?file=HandBrake-1.4.1-x86_64-Win_GUI.exe | Video editor
 
 ## Additional dependencies
 * OpenJFX [JavaFX 16](https://mvnrepository.com/artifact/org.openjfx/javafx/16)
