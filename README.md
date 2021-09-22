@@ -26,7 +26,7 @@ The app should have 2 screens:
 
 ## .CSV file format
 An example of the .csv file format
-| Program name (Required)| Program category (Optional) | License type (Optional) | Required (Optional) | Download URL (Optional) | User Profile (Optional)
+| Program name (Required)| Program category (Optional) | License type (Optional) | Is always required (Required) | Download URL (Optional) | User Profile (Optional)
 |:----:|:-----------:|:----:|:----:|:----:|:----:|
 Mozilla Firefox | Browser | FOSS | yes | https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US | Regular
 Google Chrome | Browser | Freeware | yes | http://dl.google.com/chrome/install/375.126/chrome_installer.exe | Regular
