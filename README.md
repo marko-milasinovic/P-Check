@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/license/marko-milasinovic/P-Check?style=flat-square">
 </p>
 
-# [💾Download Latest Stable Build](https://github.com/marko-milasinovic/College-Subject-Tracker/releases)
+# [💾Download Latest Stable Build](https://github.com/marko-milasinovic/P-Check/releases)
 Supported Languages: English
 
 
