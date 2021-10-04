@@ -1,9 +1,22 @@
-# Automatic installed programs checker
-Java program that automatically checks if given programs (read from .csv) have ever been "installed". There are other ways to check for previously installed programs with system specific api's / registry keys, but this is a user friendly method that can be easily expanded to include other programs.
+
+<h2 align="center"> Installed Programs Checker </h2> 
+
+<h3 align="center"> Automatically checks if given programs (read from .csv) have ever been "installed" </h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Support-Windows%20x64-blue?logo=Windows&style=flat-square">
+<img src="https://img.shields.io/github/license/marko-milasinovic/P-Check?style=flat-square">
+</p>
+
+# [💾Download Latest Stable Build](https://github.com/marko-milasinovic/College-Subject-Tracker/releases)
+Supported Languages: English
+
 
 ## How it works
 If the provided system is Windows the program will check for directory names that match the given program names in ../AppData and its subdirectories.
 If deep search is on (or the given OS isn't windows), search will start at root system directory and search up to the given depth (usually up to 10) for installed programs.
+<br>
+There are other ways to check for previously installed programs with system specific api's / registry keys, but this is a user friendly method that can be easily expanded to include other programs.
 
 ### Input file
 The input .csv file can be:
