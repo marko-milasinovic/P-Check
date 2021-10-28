@@ -9,7 +9,7 @@
 </p>
 
 # [💾Download Latest Stable Build](https://github.com/marko-milasinovic/P-Check/releases/latest)
-Supported Languages: English
+Supported Languages: *English*
 
 ## How it works
 If the provided system is Windows the program will check for directory names that match the given program names in ../AppData and its subdirectories.
