@@ -4,8 +4,9 @@
 <h3 align="center"> Automatically checks if given programs (read from .csv) have ever been "installed" </h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Support-Windows%20x64-blue?logo=Windows&style=flat-square">
-<img src="https://img.shields.io/github/license/marko-milasinovic/P-Check?style=flat-square">
+<img src="https://img.shields.io/badge/Support-Windows%20x64-blue?logo=Windows&style=flat">
+<img src="https://img.shields.io/github/license/marko-milasinovic/P-Check?style=flat">
+<img src="https://tokei.rs/b1/github/marko-milasinovic/P-Check?category=code">
 </p>
 
 # [💾Download Latest Stable Build](https://github.com/marko-milasinovic/P-Check/releases/latest)
